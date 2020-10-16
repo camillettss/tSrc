@@ -1,0 +1,1 @@
+hey, la classe ${CLASS_NAME} ha bisogno di aiuto! vai in ${CLASS_LOC} , grazie!
